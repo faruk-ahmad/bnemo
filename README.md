@@ -1,2 +1,2 @@
 # bn-emo
-A database for translating emoji, emoticons into bangla relevant phrases for NLP tasks.
+A database for translating emoji, emoticons into Bengali relevant phrases for NLP tasks.
