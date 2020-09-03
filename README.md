@@ -8,5 +8,6 @@ Normally text corpus or text data contains different type of emoji, emoticons to
 | Step Name  | Status | Duration |
 | ------------- | ------------- | ------------- |
 | Collect Sample Bengali Sentences with emoji(Size 100 at least)  | done  | 2 Week |
-| dictionary for emoji to text | pending | 1 week |
+| dictionary for emoji to text | done | 1 week |
+| writing sample notebooks for showing use of the dictionary | pending | 1 week |
 
