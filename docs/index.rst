@@ -10,8 +10,8 @@ A Python package for translating Emoji and Emoticons into Bengali text.
 ----
 
 
-.. image:: ./docs/bnemo.png
-   :target: ./docs/bnemo.png
+.. image:: ./bnemo.png
+   :target: ./bnemo.png
    :alt: Sample of using Bnemo
 
 
