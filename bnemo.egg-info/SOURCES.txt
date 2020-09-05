@@ -1,0 +1,9 @@
+README.md
+setup.py
+bnemo/__init__.py
+bnemo/bnemo.py
+bnemo/emo_unicode.py
+bnemo.egg-info/PKG-INFO
+bnemo.egg-info/SOURCES.txt
+bnemo.egg-info/dependency_links.txt
+bnemo.egg-info/top_level.txt

@@ -77,3 +77,11 @@ You can contribute in the following ways -
 - You can suggest better translation for any emoji, emoticons and send a pull request.
 - You can create notebooks for showing use cases of this package or emoji database.
 - Or may be in someother way not listed here
+
+
+## Inspiration
+- The package was inspired by the awesome tool that you can use for translating emoji, emoticons into english phrases. Check out this awesome tool as well.
+[https://github.com/NeelShah18/emot](https://github.com/NeelShah18/emot/)
+
+- List of unicode emojis
+[https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html)
