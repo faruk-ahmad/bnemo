@@ -1,3 +1,7 @@
+"""
+Database module for Bengali translations of emoji and emoticons.
+Last Update: 04 September, 2020
+"""
 
 __all__ = ['EMO_UNICODE', 'UNICODE_EMO', 'EMOTICONS', 'EMOTICONS_EMO']
 
