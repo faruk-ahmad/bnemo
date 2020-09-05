@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name="bnemo",
-    version="1.0.0",
+    version="1.0.1",
     author="Faruk Ahmad, Sagor Sarkar",
     author_email="faruk.csebrur@gmail.com, sagorhem3532@gmail.com",
     description="A Python package for translating Emoji and Emoticons into Bengali text.",
